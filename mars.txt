@@ -1,4 +1,3 @@
 Some text first line
-This is the new second line
 More text second line
 Third line
