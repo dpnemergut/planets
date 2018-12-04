@@ -1,4 +1,4 @@
-Some lines
+Some lines, which John edited at the same time Dan did.
 
 
 More lines
